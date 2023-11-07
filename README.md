@@ -1,2 +1,3 @@
 # Pumped
-A workout tracker application
+
+A workout tracker application by Joyce and Lesley
